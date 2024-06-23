@@ -102,8 +102,3 @@ To run this project in Google Colab, follow these steps:
 2. Select the gender of the person.
 3. Click on "Search" to initiate the recognition process.
 4. View results, including potential matches and similarity scores.
-
- and commands are accurately represented and tested in your development environment before updating the README on GitHub.
-- Provide clear instructions for setting up and running the project to ensure users can easily replicate the environment and use the application.
-
-This README structure provides a comprehensive overview of your project, including setup instructions for both local and Google Colab environments, usage guidelines, contribution details, licensing information, and contact details. Adjust the content and formatting as necessary to fit your specific project requirements and updates.
