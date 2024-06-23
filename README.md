@@ -15,3 +15,12 @@ This repository hosts a machine learning project aimed at identifying and findin
 - **Visualization:** Matplotlib, Seaborn
 - **Development:** Jupyter Notebooks for experimentation and development
 
+## Installation
+
+Clone the repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/BOD-27/Find_Missing_People.git
+cd Find_Missing_People
+
+
